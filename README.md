@@ -45,7 +45,7 @@ What is the length of the longest trip in the dataset in hours?
 Spark's User Interface which shows the application's dashboard runs on which local port?
 - 4040
 
-## Question 6: Least frequent pickup location zone
+### Question 6: Least frequent pickup location zone
 
 Load the zone lookup data into a temp view in Spark:
 
